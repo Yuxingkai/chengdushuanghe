@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="501px" viewBox="0 0 480 501" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>细边框</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.5%" y="-10.6%" width="122.9%" height="122.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="18" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0415101532   0 0 0 0 0.0415101532   0 0 0 0 0.373458759  0 0 0 0.685914855 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="态势分析" transform="translate(-39.000000, -129.000000)" stroke="#00C0FF">
+            <g id="内容" transform="translate(18.000000, -183.000000)">
+                <g id="人口感知" transform="translate(2.000000, 281.000000)">
+                    <g id="Group-4">
+                        <g id="Group-5" transform="translate(19.000000, 0.000000)">
+                            <g id="Group-3" filter="url(#filter-1)" transform="translate(0.000000, 31.360000)">
+                                <g id="Group-25">
+                                    <path d="M425.045932,0.5 L479.5,118.875931 L479.5,14.3179848 L464.091757,0.5 L425.045932,0.5 Z M479.5,445.950653 L321.623267,499.5 L463.249041,499.5 L479.5,483.610287 L479.5,445.950653 Z M49.3737896,499.5 L0.5,312.946213 L0.5,485.065709 L14.0567237,499.5 L49.3737896,499.5 Z M0.5,57.0921834 L204.996489,0.5 L14.0412429,0.5 L0.5,13.4737537 L0.5,57.0921834 Z" id="Rectangle-10-Copy-29"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

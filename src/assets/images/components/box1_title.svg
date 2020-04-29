@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214.358 28.25">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #31f1fe;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-2, .cls-4 {
+        opacity: 0.5;
+      }
+
+      .cls-3 {
+        opacity: 0.9;
+      }
+
+      .cls-5 {
+        fill: #b5e1ea;
+      }
+
+      .cls-6 {
+        fill: #009aff;
+        opacity: 0.1;
+      }
+    </style>
+  </defs>
+  <g id="Group_3716" data-name="Group 3716" transform="translate(-16.542 -22.5)">
+    <g id="Group_86" data-name="Group 86">
+      <path id="Path_340" data-name="Path 340" class="cls-1" d="M45,34.1V23.2H58.7"/>
+      <path id="Path_341" data-name="Path 341" class="cls-2" d="M47.7,50.5H45V36.8"/>
+      <line id="Line_88" data-name="Line 88" class="cls-3" x1="146.937" transform="translate(50.5 50.5)"/>
+      <path id="Path_342" data-name="Path 342" class="cls-2" d="M162.5,36.8V50.5h-2.7" transform="translate(40)"/>
+      <path id="Path_343" data-name="Path 343" class="cls-1" d="M147.7,23l14.8.2V34.1" transform="translate(40)"/>
+      <line id="Line_89" data-name="Line 89" class="cls-2" x2="120.231" transform="translate(63.211 23.2)"/>
+    </g>
+    <g id="Group_89" data-name="Group 89">
+      <g id="Group_87" data-name="Group 87" class="cls-4">
+        <rect id="Rectangle_166" data-name="Rectangle 166" class="cls-5" width="1.2" height="1.2" transform="translate(37.504 30.883) rotate(180)"/>
+        <rect id="Rectangle_167" data-name="Rectangle 167" class="cls-5" width="1.2" height="1.2" transform="translate(30.95 30.883) rotate(180)"/>
+        <rect id="Rectangle_168" data-name="Rectangle 168" class="cls-5" width="1.2" height="1.2" transform="translate(37.504 37.382) rotate(180)"/>
+        <rect id="Rectangle_169" data-name="Rectangle 169" class="cls-5" width="1.2" height="1.2" transform="translate(30.95 37.382) rotate(180)"/>
+        <rect id="Rectangle_170" data-name="Rectangle 170" class="cls-5" width="1.2" height="1.2" transform="translate(24.396 37.382) rotate(180)"/>
+        <rect id="Rectangle_171" data-name="Rectangle 171" class="cls-5" width="1.2" height="1.2" transform="translate(17.742 37.382) rotate(180)"/>
+        <rect id="Rectangle_172" data-name="Rectangle 172" class="cls-5" width="1.2" height="1.2" transform="translate(37.504 43.981) rotate(180)"/>
+        <rect id="Rectangle_173" data-name="Rectangle 173" class="cls-5" width="1.2" height="1.2" transform="translate(30.95 43.981) rotate(180)"/>
+        <rect id="Rectangle_174" data-name="Rectangle 174" class="cls-5" width="1.2" height="1.2" transform="translate(37.504 50.48) rotate(180)"/>
+        <rect id="Rectangle_175" data-name="Rectangle 175" class="cls-5" width="1.2" height="1.2" transform="translate(37.504 24.219) rotate(180)"/>
+      </g>
+      <g id="Group_88" data-name="Group 88" class="cls-4" transform="translate(40)">
+        <rect id="Rectangle_176" data-name="Rectangle 176" class="cls-5" width="1.2" height="1.2" transform="translate(170 29.6)"/>
+        <rect id="Rectangle_177" data-name="Rectangle 177" class="cls-5" width="1.2" height="1.2" transform="translate(176.6 29.6)"/>
+        <rect id="Rectangle_178" data-name="Rectangle 178" class="cls-5" width="1.2" height="1.2" transform="translate(170 36.2)"/>
+        <rect id="Rectangle_179" data-name="Rectangle 179" class="cls-5" width="1.2" height="1.2" transform="translate(176.6 36.2)"/>
+        <rect id="Rectangle_180" data-name="Rectangle 180" class="cls-5" width="1.2" height="1.2" transform="translate(183.2 36.2)"/>
+        <rect id="Rectangle_181" data-name="Rectangle 181" class="cls-5" width="1.2" height="1.2" transform="translate(189.7 36.2)"/>
+        <rect id="Rectangle_182" data-name="Rectangle 182" class="cls-5" width="1.2" height="1.2" transform="translate(170 42.7)"/>
+        <rect id="Rectangle_183" data-name="Rectangle 183" class="cls-5" width="1.2" height="1.2" transform="translate(176.6 42.7)"/>
+        <rect id="Rectangle_184" data-name="Rectangle 184" class="cls-5" width="1.2" height="1.2" transform="translate(170 49.3)"/>
+        <rect id="Rectangle_185" data-name="Rectangle 185" class="cls-5" width="1.2" height="1.2" transform="translate(170 23)"/>
+      </g>
+    </g>
+    <g id="Group_90" data-name="Group 90" transform="translate(0 -0.521)">
+      <rect id="Rectangle_186" data-name="Rectangle 186" class="cls-6" width="148.473" height="9.519" transform="translate(50 33)"/>
+      <rect id="Rectangle_187" data-name="Rectangle 187" class="cls-6" width="3.453" height="9.519" transform="translate(50 33)"/>
+      <rect id="Rectangle_188" data-name="Rectangle 188" class="cls-6" width="3.453" height="9.519" transform="translate(195.02 33)"/>
+    </g>
+  </g>
+</svg>

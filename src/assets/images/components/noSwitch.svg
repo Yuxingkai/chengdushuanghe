@@ -1,0 +1,30 @@
+<svg id="Radio_Button_Inactive_On" data-name="Radio Button / Inactive / On" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #096da9;
+        stroke: #2df5f3;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+        opacity: 0.5;
+      }
+
+      .cls-2 {
+        opacity: 0.4;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Base" class="cls-1">
+    <circle class="cls-3" cx="8" cy="8" r="8"/>
+    <circle class="cls-4" cx="8" cy="8" r="7.75"/>
+  </g>
+  <circle id="Glyph" class="cls-2" cx="3" cy="3" r="3" transform="translate(5 5)"/>
+</svg>

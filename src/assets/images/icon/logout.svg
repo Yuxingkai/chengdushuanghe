@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19 17.286">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        filter: url(#Path_2583);
+      }
+
+      .cls-3 {
+        filter: url(#Path_2582);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cae8f3"/>
+    </linearGradient>
+    <filter id="Path_2582" x="0" y="0" width="11" height="17.286" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#3ea7f9"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2583" x="6.001" y="4.071" width="12.999" height="9.143" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#3ea7f9"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="退出登陆_1_" data-name="退出登陆 (1)" transform="translate(-32 -32)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 32, 32)">
+      <path id="Path_2582-2" data-name="Path 2582" class="cls-1" d="M41.328,46.578H33.673v-12.9h7.681v2.98a.823.823,0,1,0,1.645,0V32H32V48.286H43V43.6a.823.823,0,1,0-1.645,0v2.979Z" transform="translate(-32 -32)"/>
+    </g>
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, 32, 32)">
+      <path id="Path_2583-2" data-name="Path 2583" class="cls-1" d="M393.412,272.23a.74.74,0,0,0,0,1.136l2.009,1.884h-8.8a.805.805,0,1,0,0,1.607h8.862l-2.009,1.884a.742.742,0,0,0,0,1.136.862.862,0,0,0,1.211,0l4.077-3.823-4.078-3.823A.934.934,0,0,0,393.412,272.23Z" transform="translate(-379.76 -267.91)"/>
+    </g>
+  </g>
+</svg>

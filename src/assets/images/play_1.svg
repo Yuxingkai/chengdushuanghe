@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7 8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9d9d9d;
+        opacity: 0.8;
+      }
+    </style>
+  </defs>
+  <path id="Path_1807" data-name="Path 1807" class="cls-1" d="M6.817,4.409.73,7.839C.243,8.084,0,8.084,0,7.594H0V.49C0,0,.243,0,.73,0L6.817,3.43h0C7.061,3.92,7.061,4.165,6.817,4.409Z"/>
+</svg>

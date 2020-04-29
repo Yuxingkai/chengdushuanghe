@@ -1,0 +1,42 @@
+<svg id="Radio_Button_On" data-name="Radio Button / On" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3b99fc;
+        stroke: #2df5f3;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        filter: url(#Glyph);
+      }
+    </style>
+    <filter id="Glyph" x="3.5" y="4" width="9" height="9" filterUnits="userSpaceOnUse">
+      <feOffset dy="0.5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-color="#217fe2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Base" class="cls-1">
+    <circle class="cls-3" cx="8" cy="8" r="8"/>
+    <circle class="cls-4" cx="8" cy="8" r="7.75"/>
+  </g>
+  <g class="cls-5" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <circle id="Glyph-2" data-name="Glyph" class="cls-2" cx="3" cy="3" r="3" transform="translate(5 5)"/>
+  </g>
+</svg>

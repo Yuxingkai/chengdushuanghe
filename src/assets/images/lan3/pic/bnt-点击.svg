@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="46px" viewBox="0 0 144 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>bnt-点击</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="488" y="0" width="1920" height="1080"></rect>
+        <path d="M728.983988,309.651089 C702.02175,394.553511 611.463645,430.220178 457.309674,416.651089 C226.078717,396.297455 35.1415324,374.606588 -82.9782866,417.33974" id="path-3"></path>
+        <filter x="-0.9%" y="-6.4%" width="101.7%" height="112.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="5.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.129755435   0 0 0 0 1  0 0 0 0.984941123 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="7.59139507 7.32942959e-17 135.579357 0 144.20001 8.32406118 144.20001 12.5353964 140.281531 15.5286122 140.281531 31.1390552 144.20001 34.2592642 144.20001 38.4294718 135.123967 46.2000031 7.59139507 46.2000031 0 38.4294718 0 34.2592642 3.91847853 31.1390552 3.91847853 15.5286122 0 12.5353964 0 8.32406118"></polygon>
+        <filter x="-5.2%" y="-16.2%" width="110.4%" height="132.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="5.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.305882353   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="7.59139507 7.32942959e-17 135.579357 0 144.20001 8.32406118 144.20001 12.5353964 140.281531 15.5286122 140.281531 31.1390552 144.20001 34.2592642 144.20001 38.4294718 135.123967 46.2000031 7.59139507 46.2000031 0 38.4294718 0 34.2592642 3.91847853 31.1390552 3.91847853 15.5286122 0 12.5353964 0 8.32406118"></polygon>
+        <filter x="-5.2%" y="-16.2%" width="110.4%" height="132.5%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="5.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.305882353   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="态势分析" transform="translate(-528.000000, -19.000000)">
+            <rect fill="#1B223F" x="0" y="0" width="1920" height="1080"></rect>
+            <g id="背景" transform="translate(-488.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#03062A" xlink:href="#path-1"></use>
+                <g id="Group-404" opacity="0.304141" mask="url(#mask-2)" stroke="#6D9EAF" stroke-width="0.5">
+                    <g transform="translate(-1516.000000, -136.000000)">
+                        <polygon id="Stroke-167" points="2472.56018 152.090398 2554 151 2536.74909 179.871609 2450 181"></polygon>
+                        <polygon id="Stroke-168" points="2555.44882 150.093247 2638 149 2625.94496 177.867192 2538 179"></polygon>
+                        <polygon id="Stroke-169" points="2635.95542 150.096864 2718 149 2711.41721 177.863527 2624 179"></polygon>
+                        <polygon id="Stroke-187" points="2449.84021 181.092447 2537 180 2517.23729 211.870034 2424 213"></polygon>
+                        <polygon id="Stroke-188" points="2536.55574 180.095827 2623 179 2609.48712 210.865878 2517 212"></polygon>
+                        <polygon id="Stroke-189" points="2623.76189 179.099926 2712 178 2704.42188 209.861738 2610 211"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="内容" transform="translate(18.000000, -183.000000)">
+                <g id="中间背景" transform="translate(317.000000, 111.000000)" fill-rule="nonzero" opacity="0.303795">
+                    <g transform="translate(57.000000, 0.000000)" id="Path-17">
+                        <g transform="translate(323.002851, 364.553424) rotate(55.000000) translate(-323.002851, -364.553424) ">
+                            <use fill-opacity="0" fill="#01A9FE" xlink:href="#path-3"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+                <g id="导航" transform="translate(345.000000, 183.000000)">
+                    <g id="神经感知" transform="translate(165.000000, 19.000000)">
+                        <g id="bnt">
+                            <g id="Group-4-Copy">
+                                <path d="M141.03555,14.5560904 L143.777877,15.9829325 C144.037278,16.1178998 144.20001,16.3860116 144.20001,16.6784241 L144.20001,29.6313206 C144.20001,29.9237331 144.037278,30.1918449 143.777877,30.3268122 L141.03555,31.7536544 C140.651441,31.9535078 140.178045,31.8041389 139.978192,31.4200295 C139.920043,31.3082705 139.889683,31.1841443 139.889683,31.0581628 L139.889683,15.251582 C139.889683,14.8185907 140.240692,14.4675819 140.673683,14.4675819 C140.799665,14.4675819 140.923791,14.4979418 141.03555,14.5560904 Z" id="Rectangle" fill="#52D4FF"></path>
+                                <path d="M1.1458668,14.5560904 L3.88819308,15.9829325 C4.1475941,16.1178998 4.31032638,16.3860116 4.31032638,16.6784241 L4.31032638,29.6313206 C4.31032638,29.9237331 4.1475941,30.1918449 3.88819308,30.3268122 L1.1458668,31.7536544 C0.761757409,31.9535078 0.28836196,31.8041389 0.0885084725,31.4200295 C0.0303598571,31.3082705 3.23943381e-15,31.1841443 2.66453526e-15,31.0581628 L1.33226763e-15,15.251582 C1.27924149e-15,14.8185907 0.35100878,14.4675819 0.784000053,14.4675819 C0.909981558,14.4675819 1.03410779,14.4979418 1.1458668,14.5560904 Z" id="Rectangle-Copy" fill="#52D4FF" transform="translate(2.155163, 23.154955) scale(-1, 1) translate(-2.155163, -23.154955) "></path>
+                                <polygon id="Rectangle-10-Copy-29" fill="#171C6E" opacity="0.204743304" points="7.59139507 7.32942959e-17 135.579357 0 144.20001 8.32406118 144.20001 12.5353964 140.281531 15.5286122 140.281531 31.1390552 144.20001 34.2592642 144.20001 38.4294718 135.123967 46.2000031 7.59139507 46.2000031 0 38.4294718 0 34.2592642 3.91847853 31.1390552 3.91847853 15.5286122 0 12.5353964 0 8.32406118"></polygon>
+                                <g id="Rectangle-10-Copy-29" fill="black" fill-opacity="1">
+                                    <use filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="bnt">
+                            <g id="Group-4-Copy">
+                                <path d="M141.03555,14.5560904 L143.777877,15.9829325 C144.037278,16.1178998 144.20001,16.3860116 144.20001,16.6784241 L144.20001,29.6313206 C144.20001,29.9237331 144.037278,30.1918449 143.777877,30.3268122 L141.03555,31.7536544 C140.651441,31.9535078 140.178045,31.8041389 139.978192,31.4200295 C139.920043,31.3082705 139.889683,31.1841443 139.889683,31.0581628 L139.889683,15.251582 C139.889683,14.8185907 140.240692,14.4675819 140.673683,14.4675819 C140.799665,14.4675819 140.923791,14.4979418 141.03555,14.5560904 Z" id="Rectangle" fill="#52D4FF"></path>
+                                <path d="M1.1458668,14.5560904 L3.88819308,15.9829325 C4.1475941,16.1178998 4.31032638,16.3860116 4.31032638,16.6784241 L4.31032638,29.6313206 C4.31032638,29.9237331 4.1475941,30.1918449 3.88819308,30.3268122 L1.1458668,31.7536544 C0.761757409,31.9535078 0.28836196,31.8041389 0.0885084725,31.4200295 C0.0303598571,31.3082705 3.23943381e-15,31.1841443 2.66453526e-15,31.0581628 L1.33226763e-15,15.251582 C1.27924149e-15,14.8185907 0.35100878,14.4675819 0.784000053,14.4675819 C0.909981558,14.4675819 1.03410779,14.4979418 1.1458668,14.5560904 Z" id="Rectangle-Copy" fill="#52D4FF" transform="translate(2.155163, 23.154955) scale(-1, 1) translate(-2.155163, -23.154955) "></path>
+                                <polygon id="Rectangle-10-Copy-29" fill="#171C6E" opacity="0.204743304" points="7.59139507 7.32942959e-17 135.579357 0 144.20001 8.32406118 144.20001 12.5353964 140.281531 15.5286122 140.281531 31.1390552 144.20001 34.2592642 144.20001 38.4294718 135.123967 46.2000031 7.59139507 46.2000031 0 38.4294718 0 34.2592642 3.91847853 31.1390552 3.91847853 15.5286122 0 12.5353964 0 8.32406118"></polygon>
+                                <g id="Rectangle-10-Copy-29" fill="black" fill-opacity="1">
+                                    <use filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                </g>
+                            </g>
+                        </g>
+                        <text font-family="PingFangSC-Semibold, PingFang SC" font-size="22" font-weight="500" fill="#FFFFFF">
+                            <tspan x="29" y="32">神经感知</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
