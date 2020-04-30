@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d0303;
+      }
+
+      .cls-2 {
+        fill: #d20000;
+      }
+    </style>
+  </defs>
+  <g id="红珠" transform="translate(-1526 -115)">
+    <g id="椭圆_13_拷贝_2" data-name="椭圆 13 拷贝 2" transform="translate(2 7)">
+      <path id="椭圆_13_拷贝_2-2" data-name="椭圆 13 拷贝 2" class="cls-1" d="M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" transform="translate(1524 108)"/>
+    </g>
+    <circle id="椭圆_13_拷贝" data-name="椭圆 13 拷贝" class="cls-2" cx="4.5" cy="4.5" r="4.5" transform="translate(1529 118)"/>
+    <image id="图层_30" data-name="图层 30" width="11" height="7" transform="translate(1529 118)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAHCAYAAADebrddAAAAAXNSR0IArs4c6QAAAH1JREFUGBmN0LEOREAUhWEzi8ULKCS8hKj2dTzy9qqtdostFATjPzQoJib5cmXmzL0yxjkXHJbh+4EZpwNlQigQIUeJAi9UaPGDLm/hJ1WhGF98MKFGgzc6OMNvqGuGHtfxKXuaqAajwlTv0uQEf+uN7YcDRR3tnc66oodYVkqhIBbCM7VEAAAAAElFTkSuQmCC"/>
+  </g>
+</svg>

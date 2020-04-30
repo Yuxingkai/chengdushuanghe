@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="465px" height="429px" viewBox="0 0 465 429" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 30</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M563.348471,8.59424572 C565.005477,5.10136235 569.180288,3.61308984 572.673171,5.27009604 C576.166055,6.92710223 577.654327,11.1019126 575.997321,14.594796 C523.275017,125.730686 466.926921,195.360024 406.438586,223.284101 C372.590139,238.910033 353.419821,247.421058 329.434288,257.052562 C296.860701,270.13264 265.854992,280.65761 235.06889,288.631958 C157.90885,308.618283 86.5433826,311.364488 20.6476895,292.469202 C16.9314583,291.40359 14.782707,287.52714 15.8483192,283.810909 C16.9139313,280.094677 20.7903813,277.945926 24.5066125,279.011538 C87.7216624,297.138162 156.634514,294.486336 231.558404,275.079228 C261.715191,267.267888 292.165683,256.931388 324.217411,244.060865 C347.923756,234.54147 366.924465,226.105746 400.570666,210.57318 C457.468488,184.306642 511.899239,117.046568 563.348471,8.59424572 Z" id="path-1"></path>
+        <filter x="-1.2%" y="-2.3%" width="102.5%" height="104.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="5.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.262745098   0 0 0 0 1  0 0 0 0.984941123 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="态势分析" transform="translate(-953.000000, -533.000000)" fill-rule="nonzero">
+            <g id="内容" transform="translate(18.000000, -183.000000)">
+                <g id="中间背景" transform="translate(317.000000, 111.000000)">
+                    <g id="传输管" transform="translate(0.000000, 342.000000)">
+                        <g id="Group-30" transform="translate(839.397503, 495.226326) scale(-1, 1) rotate(-16.000000) translate(-839.397503, -495.226326) translate(537.897503, 326.226326)">
+                            <g id="Group-55">
+                                <g id="Path-7">
+                                    <use fill-opacity="0" fill="#01A9FE" xlink:href="#path-1"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

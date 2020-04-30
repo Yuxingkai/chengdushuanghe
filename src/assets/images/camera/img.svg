@@ -1,0 +1,33 @@
+<svg id="Group_2311" data-name="Group 2311" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#31f1fe"/>
+      <stop offset="1" stop-color="#acf7f1"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2304" data-name="Group 2304" transform="translate(7.19 8.465)">
+    <path id="Path_2505" data-name="Path 2505" class="cls-1" d="M19.55,752.869l-3.05-2.937.523-.432,3.007,2.937Z" transform="translate(-16.5 -749.5)"/>
+  </g>
+  <g id="Group_2305" data-name="Group 2305" transform="translate(4.183 1.555)">
+    <path id="Path_2506" data-name="Path 2506" class="cls-1" d="M11.038,736.264a1.383,1.383,0,1,1,1.438-1.382A1.467,1.467,0,0,1,11.038,736.264Zm0-2.116a.731.731,0,0,0-.741.734.76.76,0,0,0,.741.734.734.734,0,1,0,0-1.468Z" transform="translate(-9.6 -733.5)"/>
+  </g>
+  <g id="Group_2310" data-name="Group 2310">
+    <g id="Group_2306" data-name="Group 2306" transform="translate(19.303 10.841)">
+      <rect id="Rectangle_1830" data-name="Rectangle 1830" class="cls-1" width="0.697" height="1.814"/>
+    </g>
+    <g id="Group_2307" data-name="Group 2307" transform="translate(0 11.532)">
+      <rect id="Rectangle_1831" data-name="Rectangle 1831" class="cls-1" width="0.697" height="1.123"/>
+    </g>
+    <g id="Group_2308" data-name="Group 2308">
+      <path id="Path_2507" data-name="Path 2507" class="cls-1" d="M0,742.252V729.9H19.956v11.661l-7.451-7.429-5.011,5.01-2.179-2.2Zm.7-11.7v10.063l4.619-4.621,2.179,2.2,5.011-5.01,6.754,6.738v-9.372Z" transform="translate(0 -729.9)"/>
+    </g>
+    <g id="Group_2309" data-name="Group 2309" transform="translate(0 3.282)">
+      <path id="Path_2508" data-name="Path 2508" class="cls-1" d="M19.956,747.218H0v-1.6l5.316-5.312,2.179,2.2,5.011-5.01,7.451,7.429v2.289ZM.7,746.527H19.3v-1.339l-6.754-6.738-5.011,5.01-2.179-2.2L.7,745.879Z" transform="translate(0 -737.5)"/>
+    </g>
+  </g>
+</svg>

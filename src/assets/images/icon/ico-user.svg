@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15.004 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        filter: url(#User);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c3e6f2"/>
+      <stop offset="0.272" stop-color="#e4f2f7"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="User" x="0" y="0" width="15.004" height="17" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#3da2e9"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="LOGIN" transform="translate(-953.999 -637)">
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, 954, 637)">
+      <path id="User-2" data-name="User" class="cls-1" d="M969,650H954c0-1.929,2.267-3.541,5.359-4.068v-.79a4.245,4.245,0,0,1-2.143-3.675v-.108a1.575,1.575,0,0,1,0-2.984v-.108a4.287,4.287,0,0,1,8.574,0v.108a1.575,1.575,0,0,1,0,2.984v.108a4.245,4.245,0,0,1-2.143,3.675v.79C966.736,646.458,969,648.07,969,650Z" transform="translate(-954 -634)"/>
+    </g>
+  </g>
+</svg>

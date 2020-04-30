@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="38px" viewBox="0 0 14 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>线管接口</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M499,204 L510,204 C511.656854,204 513,205.343146 513,207 L513,239 C513,240.656854 511.656854,242 510,242 L499,242 L499,204 Z" id="path-1"></path>
+        <filter x="-57.1%" y="-21.1%" width="214.3%" height="142.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="7.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.416278071   0 0 0 0 0.991523172  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="态势分析" transform="translate(-519.000000, -302.000000)">
+            <g id="内容" transform="translate(18.000000, -183.000000)">
+                <g id="人口感知" transform="translate(2.000000, 281.000000)">
+                    <g id="Rectangle-20">
+                        <use fill="#0E2260" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

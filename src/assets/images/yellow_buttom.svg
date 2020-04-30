@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 17.85 17.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #312e08;
+      }
+
+      .cls-2 {
+        fill: #d2c200;
+      }
+    </style>
+  </defs>
+  <g id="Group_2462" data-name="Group 2462" transform="translate(0 0)">
+    <g id="椭圆_13_拷贝_2" data-name="椭圆 13 拷贝 2">
+      <path id="椭圆_13_拷贝_2-2" data-name="椭圆 13 拷贝 2" class="cls-1" d="M8.925,0A8.86,8.86,0,1,1,0,8.86,8.893,8.893,0,0,1,8.925,0Z"/>
+    </g>
+    <ellipse id="椭圆_13_拷贝" data-name="椭圆 13 拷贝" class="cls-2" cx="5.355" cy="5.316" rx="5.355" ry="5.316" transform="translate(3.57 3.544)"/>
+    <image id="图层_30" data-name="图层 30" width="11" height="7" transform="translate(3.57 3.544)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAHCAYAAADebrddAAAAAXNSR0IArs4c6QAAAH1JREFUGBmN0LEOREAUhWEzi8ULKCS8hKj2dTzy9qqtdostFATjPzQoJib5cmXmzL0yxjkXHJbh+4EZpwNlQigQIUeJAi9UaPGDLm/hJ1WhGF98MKFGgzc6OMNvqGuGHtfxKXuaqAajwlTv0uQEf+uN7YcDRR3tnc66oodYVkqhIBbCM7VEAAAAAElFTkSuQmCC"/>
+  </g>
+</svg>

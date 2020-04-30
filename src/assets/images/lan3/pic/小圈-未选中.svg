@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>小圈-未选中</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-36.6%" y="-36.6%" width="173.2%" height="173.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1.83078089" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <pattern id="pattern-2" width="7.17830882" height="7.17830882" x="-6.17830882" y="-6.17830882" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-3" transform="scale(0.239276961,0.239276961)"></use>
+        </pattern>
+        <image id="image-3" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAKBJREFUSA3tVlsKwCAMk7H/HWnebOxnx9rjSDuBS8EPP20Dk0IF0Y9maRInpuRtlFI2zN1b3/Z+Q7HdOy/IyFib1KwFNPV3s/9vi4xPzMvKyCh+rKSCmwjwCmy24ocpTsjpla47VpR0ja7vCeFSibXrAexmxVsjkobjVKvcY0419exhiDMkyj1AXSQqm4YW11+JsnuoADV5KFZb5g7AZvwBA/XUJf9Qc4YAAAAASUVORK5CYII="></image>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="态势分析" transform="translate(-1102.000000, -350.000000)">
+            <g id="内容" transform="translate(18.000000, -183.000000)">
+                <g id="中间1" transform="translate(1044.000000, 399.000000)">
+                    <g id="Group-41" transform="translate(40.000000, 134.000000)">
+                        <circle id="Oval-12-Copy" fill="#00E7FF" filter="url(#filter-1)" cx="14.5" cy="14.5" r="7.5"></circle>
+                        <circle id="Oval-12-Copy" fill="url(#pattern-2)" cx="15" cy="15" r="14"></circle>
+                        <circle id="Oval-12-Copy" stroke="#03063A" stroke-width="2.09999996" fill-opacity="0.9" fill="#2E6AEB" cx="15" cy="15" r="14"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

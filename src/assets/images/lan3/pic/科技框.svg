@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>科技框</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="态势分析" transform="translate(-75.000000, -704.000000)">
+            <g id="内容" transform="translate(18.000000, -183.000000)">
+                <g id="事件感知" transform="translate(2.000000, 833.000000)">
+                    <g id="Group-67" transform="translate(39.000000, 50.000000)">
+                        <g id="Group-51" transform="translate(16.000000, 4.000000)">
+                            <g id="科技框" transform="translate(1.000000, 1.000000)">
+                                <ellipse id="Oval-12-Copy" fill="#0037CB" opacity="0.195703" cx="22.75" cy="22.7258065" rx="15.75" ry="15.7258065"></ellipse>
+                                <path d="M23.15,40.2473118 C32.6216835,40.2473118 40.3,32.5807899 40.3,23.1236559 C40.3,13.6665219 32.6216835,6 23.15,6 C13.6783165,6 6,13.6665219 6,23.1236559 C6,32.5807899 13.6783165,40.2473118 23.15,40.2473118 Z" id="Oval-12-Copy" stroke="#336CFF" stroke-dasharray="1,1"></path>
+                                <ellipse id="Oval-12-Copy" stroke="#336CFF" cx="22.95" cy="22.9193548" rx="19.95" ry="19.9193548"></ellipse>
+                                <path d="M22.95,42.8387097 C33.9680808,42.8387097 42.9,33.9205107 42.9,22.9193548 C42.9,11.9181989 33.9680808,3 22.95,3 C11.9319192,3 3,11.9181989 3,22.9193548 C3,33.9205107 11.9319192,42.8387097 22.95,42.8387097 Z" id="Oval-12-Copy" stroke="#336CFF" stroke-width="4.19999993" opacity="0.295703125" stroke-dasharray="11.19999980926514,2.099999964237213"></path>
+                                <path d="M23,46 C35.7025492,46 46,35.7025492 46,23 C46,10.2974508 35.7025492,0 23,0 C10.2974508,0 0,10.2974508 0,23 C0,35.7025492 10.2974508,46 23,46 Z" id="Oval-12-Copy" stroke="#336CFF" stroke-width="0.4" stroke-dasharray="272.9999953508377,41.99999928474426"></path>
+                                <path d="M23,0 C16.3942852,0 10.4346416,2.62580593 6.21621622,6.83783784 M0,23 C0,29.2357519 2.35715693,34.9125693 6.21621622,39.1621622 M23,46 C29.6826566,46 35.6814946,42.8748047 39.7837838,37.9189189 M46,23 C46,16.6878512 43.3868153,10.9734491 39.1621622,6.83783784" id="Oval-12-Copy" stroke="#31DDD1" opacity="0.937857018" stroke-dasharray="1,1"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>用户</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <pattern id="pattern-1" width="6.79227941" height="6.79227941" x="-6.79227941" y="-6.79227941" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2" transform="scale(0.226409314,0.226409314)"></use>
+        </pattern>
+        <image id="image-2" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAKBJREFUSA3tVlsKwCAMk7H/HWnebOxnx9rjSDuBS8EPP20Dk0IF0Y9maRInpuRtlFI2zN1b3/Z+Q7HdOy/IyFib1KwFNPV3s/9vi4xPzMvKyCh+rKSCmwjwCmy24ocpTsjpla47VpR0ja7vCeFSibXrAexmxVsjkobjVKvcY0419exhiDMkyj1AXSQqm4YW11+JsnuoADV5KFZb5g7AZvwBA/XUJf9Qc4YAAAAASUVORK5CYII="></image>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="态势分析" transform="translate(-1836.000000, -20.000000)">
+            <g id="内容" transform="translate(18.000000, -183.000000)">
+                <g id="用户" transform="translate(1818.000000, 203.000000)">
+                    <g id="Group-41-Copy-5">
+                        <rect id="Rectangle-19" fill="#52D4FF" opacity="0.1" x="0" y="0" width="36" height="36"></rect>
+                        <rect id="Rectangle-19" fill="url(#pattern-1)" opacity="0.21875" x="0" y="0" width="36" height="36"></rect>
+                        <path d="M32.7770514,0.72 L35.149383,3.40557157 L35.149383,0.72 L32.7770514,0.72 Z M35.28,31.5683514 L31.5600225,35.28 L35.28,35.28 L35.28,31.5683514 Z M4.18419186,35.2531083 L0.72,32.1318667 L0.72,35.2531083 L4.18419186,35.2531083 Z M0.72,3.59205471 L3.42415438,0.72 L0.72,0.72 L0.72,3.59205471 Z" id="Rectangle-8" stroke="#3AE8FF" stroke-width="1.44"></path>
+                    </g>
+                    <text id="ion-android-person---Ionicons" font-family="Ionicons" font-size="25.92" font-weight="400" fill="#3AE8FF">
+                        <tspan x="9" y="28"></tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
