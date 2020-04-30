@@ -1,7 +1,0 @@
-/build/
-/config/
-/dist/
-/*.js
-/src/assets/js/TimelineMax.min.js
-/src/assets/js/showStar.js
-/src/assets/js/mixin.js
